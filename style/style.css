@@ -1,0 +1,23 @@
+.prosList, .consList{
+  overflow-x: auto;
+  height: 340px;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+.header{
+  background-color: gray;
+  text-align: center;
+}
+
+.tables{
+  display: flex;
+  flex-direction: row;
+}
+
+.tableHeading{
+  margin-left: 220px;
+}
